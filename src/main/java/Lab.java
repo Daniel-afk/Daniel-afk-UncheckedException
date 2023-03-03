@@ -16,6 +16,6 @@ public class Lab {
     public void throwUncheckedException(){
         int x = 25;
         int y = 0;
-        int z = x/y;
+        int z = x/y ;
     }
 }
